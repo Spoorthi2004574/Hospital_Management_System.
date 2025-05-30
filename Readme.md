@@ -157,13 +157,15 @@ http://localhost:8080/HospitalWebApp/
 ![Update](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/2d364dd37d7898d49846dc4387557fa1e12f278a/Screenshots/edit_patient.png)
 
 ### ❌ Delete Patient  
-![Delete](screenshots/delete.jpg)
+![Delete](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/35b7b6d634cc8d98a966abdb8516dbdae4c53fc4/Screenshots/delete_patient.png)
 
 ### 📋 View Patients  
-![View](screenshots/view.jpg)
+![View](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/2d364dd37d7898d49846dc4387557fa1e12f278a/Screenshots/patient_view.png)
 
 ### 📊 Reports  
 ![Report1](screenshots/report1.jpg)  
-![By Ailment](screenshots/report2.jpg)  
+![By Ailment](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/2d364dd37d7898d49846dc4387557fa1e12f278a/Screenshots/by_ailment.png) 
+![By Ailment view](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/2d364dd37d7898d49846dc4387557fa1e12f278a/Screenshots/By_Aliment_view.png)   
 ![By Date](screenshots/report3.jpg)  
-![By Doctor](screenshots/report4.jpg)
+![By Doctor](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/2d364dd37d7898d49846dc4387557fa1e12f278a/Screenshots/By_doctor.png)
+![By Doctor view](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/2d364dd37d7898d49846dc4387557fa1e12f278a/Screenshots/By_doctor_view.png)
