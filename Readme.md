@@ -1,4 +1,4 @@
-# 🏥 Hospital Management Web Application (JSP + Servlets + MySQL)
+# 🏥 Hospital Management Web Application 
 
 ## 📌 Project Purpose
 
@@ -35,9 +35,9 @@ CREATE TABLE Patients (
 
 ```sql
 INSERT INTO Patients (PatientID, PatientName, Age, Gender, AdmissionDate, Ailment, AssignedDoctor) VALUES
-(1, 'Rahul Sharma', 30, 'Male', '2025-05-01', 'Fever', 'Dr. Mehta'),
-(2, 'Anjali Verma', 25, 'Female', '2025-05-02', 'Fracture', 'Dr. Rao'),
-(3, 'Vikram Das', 45, 'Male', '2025-05-03', 'Diabetes', 'Dr. Sen');
+(1, 'Spoorthi', 21, 'Female', '2025-05-14', 'Fever', 'Dr.Sheith'),
+(2, 'sweekrithi',20, 'Female', '2025-05-26', 'cough', 'Dr.Harish'),
+(3, 'Shrivasthan', 45, 'Male', '2025-05-07', 'Acute pancreatisis', 'Dr.Chandra');
 ```
 
 ---
@@ -148,7 +148,7 @@ http://localhost:8080/HospitalWebApp/
 > 📸 Add your screenshots to a folder named `screenshots/` and reference them below.
 
 ### 🏠 Home Page  
-![Home](screenshots/home.jpg)
+![Home](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/d8ea235b5c5c1a3cc0c5b1a7f275d1e672c09fa2/Screenshots/home.png)
 
 ### ➕ Add Patient  
 ![Add](screenshots/add.jpg)
