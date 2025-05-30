@@ -151,10 +151,10 @@ http://localhost:8080/HospitalWebApp/
 ![Home](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/d8ea235b5c5c1a3cc0c5b1a7f275d1e672c09fa2/Screenshots/home.png)
 
 ### ➕ Add Patient  
-![Add](screenshots/add.jpg)
+![Add](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/2d364dd37d7898d49846dc4387557fa1e12f278a/Screenshots/add_patient.png)
 
 ### 📝 Update Patient  
-![Update](screenshots/update.jpg)
+![Update](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/2d364dd37d7898d49846dc4387557fa1e12f278a/Screenshots/edit_patient.png)
 
 ### ❌ Delete Patient  
 ![Delete](screenshots/delete.jpg)
