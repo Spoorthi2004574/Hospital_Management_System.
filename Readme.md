@@ -46,30 +46,37 @@ INSERT INTO Patients (PatientID, PatientName, Age, Gender, AdmissionDate, Ailmen
 
 ```
 HospitalWebApp/
-├── WebContent/
-│   ├── index.jsp
-│   ├── patientadd.jsp
-│   ├── patientupdate.jsp
-│   ├── patientdelete.jsp
-│   ├── patientdisplay.jsp
-│   ├── reports.jsp
-│   ├── report_form.jsp
-│   └── report_result.jsp
+├── build/
 ├── src/
-│   ├── com/
-│   ├── dao/
-│   │   └── HospitalDAO.java
-│   ├── model/
-│   │   └── Patient.java
-│   └── servlet/
-│       ├── AddPatientServlet.java
-│       ├── UpdatePatientServlet.java
-│       ├── DeletePatientServlet.java
-│       ├── DisplayPatientsServlet.java
-│       ├── ReportServlet.java
-│       └── ReportCriteriaServlet.java
-└── WEB-INF/
-    └── web.xml
+│   └── main/
+│       └── java/
+│           └── com/
+│               ├── dao/
+│               │   └── HospitalDAO.java
+│               ├── model/
+│               │   └── Patient.java
+│               └── servlet/
+│                   ├── AddPatientServlet.java
+│                   ├── DeletePatientServlet.java
+│                   ├── DisplayPatientsServlet.java
+│                   ├── EditPatientServlet.java
+│                   ├── ReportByAilmentServlet.java
+│                   ├── ReportByDateServlet.java
+│                   ├── ReportByDoctorServlet.java
+│                   └── UpdatePatientServlet.java
+├── webapp/
+│   ├── META-INF/
+│   ├── WEB-INF/
+│   ├── index.jsp
+│   ├── editPatient.jsp
+│   ├── patientadd.jsp
+│   ├── patientdisplay.jsp
+│   ├── patientupdate.jsp
+│   ├── reportByAilment.jsp
+│   ├── reportByDate.jsp
+│   ├── reportByDoctor.jsp
+│   └── reportForm.jsp
+
 ```
 
 ---
@@ -154,7 +161,7 @@ http://localhost:8080/HospitalWebApp/
 ![Add](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/2d364dd37d7898d49846dc4387557fa1e12f278a/Screenshots/add_patient.png)
 
 ### 📝 Update Patient  
-![Update](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/2d364dd37d7898d49846dc4387557fa1e12f278a/Screenshots/edit_patient.png)
+![Edit](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/2d364dd37d7898d49846dc4387557fa1e12f278a/Screenshots/edit_patient.png)
 
 ### ❌ Delete Patient  
 ![Delete](https://github.com/Spoorthi2004574/Hospital_Management_System./blob/35b7b6d634cc8d98a966abdb8516dbdae4c53fc4/Screenshots/delete_patient.png)
